@@ -1,0 +1,46 @@
+form link-https://docs.google.com/forms/d/1q9lnQM1GnBYKegxj5l8aA0MBXC54IdDXnnWeGLz8-Pg/edit
+sheet link-https://docs.google.com/spreadsheets/d/1Mv-YQnTpffszG1yTlJd9js_hScGF7EGdsc4bxfKSxGo/edit?resourcekey=&gid=1204358165#gid=1204358165
+
+
+
+# 📂 Task 3: Coding & Collaboration Platforms
+
+## 📌 Overview
+This task focuses on exploring coding practice platforms and cloud-based collaboration tools. It helped me understand how these tools can be used for learning, problem-solving, and sharing information effectively.
+
+---
+
+## 🧩 Part A: Coding Platform
+
+### 🔹 Platform Used: HackerRank
+I used HackerRank to practice basic coding skills. I solved a beginner-level problem titled **"Say Hello, World! With Python"**. This problem helped me understand how to write simple code and display output using Python.
+
+Practising on HackerRank is useful for improving problem-solving skills and preparing for coding interviews.
+
+---
+
+## 🧩 Part B: Google Form
+
+### 🔹 Tool Used: Google Forms
+I created a **Digital Literacy Awareness Quiz** using Google Forms. The quiz consists of 5 questions related to digital safety, online behavior, and basic awareness.
+
+I also explored the **Responses** section and connected it to Google Sheets, which automatically records and organizes the responses. This helped me understand how data collection and analysis work in real-time.
+
+---
+
+## 🔗 Google Form Link
+(Paste your Google Form link here)
+
+---
+
+## 📸 Contents of this Folder
+- HackerRank Solution Screenshot  
+- Google Form Screenshot  
+- Google Sheet (Responses) Screenshot  
+
+---
+
+## 🎯 Learning Outcome
+Through this task, I learned how coding platforms like HackerRank help in developing logical thinking and programming skills. I also understood how tools like Google Forms and Google Sheets can be used for creating quizzes, collecting data, and analyzing responses efficiently.
+
+---
