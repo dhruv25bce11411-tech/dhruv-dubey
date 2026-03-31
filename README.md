@@ -1,7 +1,7 @@
 # 📘 Digital Literacy Portfolio
 
 ## 👤 Student Details
-- Name: Dhruv Dubey  
+- Name: Dhruv Dubey 
 - Registration Number: [Your Reg. No.]  
 - Branch: B.Tech Computer Science and Engineering  
 - Course: CSE0001 – Digital Literacy  
